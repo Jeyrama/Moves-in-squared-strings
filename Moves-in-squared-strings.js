@@ -36,3 +36,4 @@ function oper(fct, s) {
   return fct(s)
 }
 
+// or
